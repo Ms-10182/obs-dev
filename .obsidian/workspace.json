@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "413344ea3de03c28",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c6dcb9f35e26eaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57bb7cf03c4cfe2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Live shorts/SP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SP"
+            }
+          },
+          {
+            "id": "6b5007c4459d55ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Live shorts/scrollable_live_streaming_srs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scrollable_live_streaming_srs"
+            }
+          },
+          {
+            "id": "87b0c20ab492364c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LabourGo/Database entities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Database entities"
+            }
+          },
+          {
+            "id": "052a7eaf9c550b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LabourGo/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffcef571bf112520",
+    "type": "split",
+    "children": [
+      {
+        "id": "07610e00a177da2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b09b0fb7a866a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7ff81e05c468b78e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bda224dd22aeaffb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1bed2f73bb6050ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "542a8cd677d8a12f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eef3ed17a157339",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "e831e63dd8616717",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "4b6f83490dbd0373",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e7102388faf071d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/hackathon project design.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of hackathon project design"
+            }
+          },
+          {
+            "id": "afeba9d186f23244",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "excel:Create Excel File": false,
+      "univer:Univer": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "10b09b0fb7a866a0",
+  "lastOpenFiles": [
+    "README.md",
+    "LabourGo/Database entities.md",
+    "LabourGo/Untitled.md",
+    "Live shorts/scrollable_live_streaming_srs.md",
+    "LabourGo",
+    "copilot-custom-prompts/Rewrite as press release.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
+    "Live shorts/README.md",
+    "Data Designing.md",
+    "Live shorts/SP.md",
+    "Live shorts/Sprint planning.md",
+    "Untitled",
+    "Live shorts/notion_style_jira_board.md",
+    "Live shorts/Timeline planning.md",
+    "DSA/question.md",
+    "Archive/rules for paper modification.md",
+    "Live shorts/Unconfirmed 889529.crdownload",
+    "Live shorts/Unconfirmed 891114.crdownload",
+    "Pasted image 20251108114554.png",
+    "Live shorts",
+    "Untitled 1.base",
+    "interviewPrep/BASH",
+    "interviewPrep",
+    "Untitled.base",
+    "Untitled.canvas"
+  ]
+}
