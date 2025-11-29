@@ -1,0 +1,2 @@
+-call system to talk with labours
+-text to audio reader for illitrate people
