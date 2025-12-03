@@ -83,16 +83,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LabourGo/Database/Database entities.md",
+                "file": "LabourGo/Flows/Basic High level.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database entities"
+              "title": "Basic High level"
+            }
+          },
+          {
+            "id": "c0c375d9e61ee2c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LabourGo/Flows/labor onboarding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "labor onboarding"
+            }
+          },
+          {
+            "id": "bf9eec110f5ddb0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LabourGo/Flows/Login.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Login"
+            }
+          },
+          {
+            "id": "60d9277431687e7c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "LabourGo/Flows/loginflow.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "loginflow"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -257,11 +297,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f1cb9efd1786da31",
+  "active": "10b09b0fb7a866a0",
   "lastOpenFiles": [
+    "LabourGo/Flows/Login.md",
+    "LabourGo/Flows/loginflow.md",
+    "LabourGo/Flows/labor onboarding.md",
     "LabourGo/Flows/Basic High level.md",
-    "LabourGo/Database/Database entities.md",
     "LabourGo/Stack and infra/Tech stack.md",
+    "LabourGo/TO discuss/Untitled.md",
+    "LabourGo/TO discuss",
+    "Untitled.md",
+    "LabourGo/Database/Database entities.md",
     "LabourGo/Stack and infra/Deployments.md",
     "LabourGo/Features needed.md",
     "LabourGo/Stack and infra/Architecture.md",
@@ -286,18 +332,12 @@
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
-    "Live shorts/README.md",
-    "Data Designing.md",
-    "Live shorts/SP.md",
-    "Live shorts/Sprint planning.md",
     "Untitled",
     "Live shorts/Unconfirmed 889529.crdownload",
     "Live shorts/Unconfirmed 891114.crdownload",
     "Pasted image 20251108114554.png",
     "Live shorts",
-    "Untitled 1.base",
     "Untitled.canvas"
   ]
 }
